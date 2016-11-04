@@ -1,0 +1,10 @@
+Dairy:
+
+Meat: 
+
+Fish:
+
+Vegetables:
+
+Bread:
+
