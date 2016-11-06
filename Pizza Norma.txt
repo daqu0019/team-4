@@ -1,18 +1,33 @@
 Pizza Norma:
 
+	Ingredients:
+
+		- Olive oil, for greasing 
+ 		- Plain flour, for dusting 
+
+	Basic pizza dough:
+
+		- 450g (3 cups) plain flour 
+		- 2 teaspoons (7g/1 sachet) dried yeast 
+		- 1 1/2 teaspoons salt 
+		- 310mls (1 1/4 cups) lukewarm water 
+		- 1 tablespoon olive oil 
+
 	Basic pizza sauce:
 
-		- 1 400g can Italian diced tomatoes
-		- 1 tablespoon olive oil
-		- 1 garlic clove, crushed
-		- 1/2 teaspoon sugar
-		- Salt & ground black pepper, to taste
-		- Topping
-		- 160g mozzarella, thinly sliced
-		- 1 red capsicum, halved, deseeded, thinly sliced
-		- 80g mushroom flats, sliced
-		- 8 Kalamata olives, pitted, quartered
-		- 120g thinly sliced pepperoni
+ 		- 1 400g can Italian diced tomatoes 
+ 		- 1 tablespoon olive oil 
+ 		- 1 garlic clove, crushed 
+ 		- 1/2 teaspoon sugar 
+ 		- Salt & ground black pepper, to taste 
+
+	Topping:
+
+ 		- 160g mozzarella, thinly sliced 
+  		- 1 red capsicum, halved, deseeded, thinly sliced 
+ 		- 80g mushroom flats, sliced 
+ 		- 8 Kalamata olives, pitted, quartered 
+ 		- 120g thinly sliced pepperoni 
 
 	Method:
 
