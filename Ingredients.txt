@@ -1,11 +1,69 @@
+Fruit:
+
+	- 400g Tomatoes
+	- 1 capiscum (bell pepper)
+	- 0.5 cup fresh lime juice
+	- 1 lemon
+
 Dairy:
 
-Meat: 
+	- 160g mozzarella
+	- 1 tsp butter
+	- 2 cups heavy cream
+
+Meat:
+
+ 	- 120g pepperoni
 
 Fish:
 
+
+
 Vegetables:
+
+	- 1 garlic clove
+	- 2tsp shallots, minced
 
 Bread:
 
+
+
+Oil:
+
+	- 2 tbsp olive oil
+
+Grains:
+
+	- 450g Plain Flour
+
+Leavening agent:
+
+	- 7g yeast
+
+Seasoning:
+
+	- 2.5 tbsp salt
+	- 0.5 tsp sugar
+	- 1.5 tbsp ground black pepper
+	- 0.25 tsp thyme
+	- 0.5 tsp bay leaf
+	- 1 tsp parsley
+	
+
+water:
+
+	- 2 cups lukewarm water
+
+Funghi:
+	
+	- 534g mushroom flats
+
+Liquids:
+
+	- 425g cream of coconut
+	- 1.5 cups chicken stock
+
+Additives:
+		
+	- 1 tsp cornstarch
 
