@@ -8,12 +8,15 @@ Fruit:
 Dairy:
 
 	- 160g mozzarella
-	- 1 tsp butter
+	- 2 tbsp butter
 	- 2 cups heavy cream
+	- 150g lemon pudding mix
+	- 100g cream cheese
 
 Meat:
 
  	- 120g pepperoni
+	- beef fillet
 
 Fish:
 
@@ -23,14 +26,18 @@ Vegetables:
 
 	- 1 garlic clove
 	- 2tsp shallots, minced
+	- 5 tomatoes
+	- 5 onions
 
 Bread:
+	- 3 loaves of bread
+	- 150g pie crust
 
 
 
 Oil:
 
-	- 2 tbsp olive oil
+	- 8 tbsp olive oil
 
 Grains:
 
@@ -42,12 +49,13 @@ Leavening agent:
 
 Seasoning:
 
-	- 2.5 tbsp salt
-	- 0.5 tsp sugar
-	- 1.5 tbsp ground black pepper
+	- 3.5 tbsp salt
+	- 1.5 tsp sugar
+	- 2.5 tbsp ground black pepper
 	- 0.25 tsp thyme
 	- 0.5 tsp bay leaf
 	- 1 tsp parsley
+	- 1 tbsp Italian Seasoning
 	
 
 water:
