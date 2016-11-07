@@ -1,3 +1,6 @@
+Pasta: 
+	- 1lb fetuccine
+
 Fruit:
 
 	- 400g Tomatoes
@@ -8,10 +11,11 @@ Fruit:
 Dairy:
 
 	- 160g mozzarella
-	- 2 tbsp butter
-	- 2 cups heavy cream
+	- 3/4 of a cup butter
+	- 4 cups heavy cream
 	- 150g lemon pudding mix
-	- 100g cream cheese
+	- 200g cream cheese
+	- 2/3 cup grated parmesan cheese
 
 Meat:
 
@@ -49,13 +53,14 @@ Leavening agent:
 
 Seasoning:
 
-	- 3.5 tbsp salt
-	- 1.5 tsp sugar
+	- 5.5 tbsp salt
+	- 3.5 tbsp sugar
 	- 2.5 tbsp ground black pepper
 	- 0.25 tsp thyme
 	- 0.5 tsp bay leaf
-	- 1 tsp parsley
+	- 1 tbsp parsley
 	- 1 tbsp Italian Seasoning
+	- 1 tbsp garlic powder
 	
 
 water:
