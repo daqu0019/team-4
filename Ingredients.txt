@@ -5,7 +5,7 @@ Fruit:
 
 	- 400g Tomatoes
 	- 1 capiscum (bell pepper)
-	- 0.5 cup fresh lime juice
+	- 1 cup fresh lime juice
 	- 1 lemon
 
 Dairy:
@@ -16,6 +16,7 @@ Dairy:
 	- 150g lemon pudding mix
 	- 200g cream cheese
 	- 2/3 cup grated parmesan cheese
+	- 5 heaped tbsp mayonnaise
 
 Meat:
 
@@ -23,7 +24,7 @@ Meat:
 	- beef fillet
 
 Fish:
-
+	- 400g cooked atlantic shell-on prawn
 
 
 Vegetables:
@@ -32,6 +33,7 @@ Vegetables:
 	- 2tsp shallots, minced
 	- 5 tomatoes
 	- 5 onions
+	- 4 little gem lettuce
 
 Bread:
 	- 3 loaves of bread
@@ -61,6 +63,9 @@ Seasoning:
 	- 1 tbsp parsley
 	- 1 tbsp Italian Seasoning
 	- 1 tbsp garlic powder
+	- 2 tbsp creamed horseradish
+	- 2 tbps paprika seasoning
+	- 5 tsp snipped chive
 	
 
 water:
@@ -75,6 +80,9 @@ Liquids:
 
 	- 425g cream of coconut
 	- 1.5 cups chicken stock
+	- 5 tbsp tomato chutney
+	- 2 tbsp Worcestershire sauce
+	- 1 tbps tabasco sauce
 
 Additives:
 		
