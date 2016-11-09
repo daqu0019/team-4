@@ -1,11 +1,12 @@
-Pasta: 
+Rice & Pasta: 
 	- 1lb fetuccine
+	- 200g Risotto Rice
 
 Fruit:
-
 	- 400g Tomatoes
 	- 1 capiscum (bell pepper)
 	- 1 cup fresh lime juice
+	- 1 tsp  Lemon Juice
 	- 1 lemon
 	- 4 bananas
 
@@ -17,9 +18,10 @@ Dairy:
 	- 150g lemon pudding mix
 	- 200g cream cheese
 	- 2/3 cup grated parmesan cheese
-	- 5 heaped tbsp mayonnaise
 	- 397g can condensed milk
 	- 300ml carton whipping cream
+	- 100g Soft Goat's Cheese
+	- 85g Yoghurt
 
 Meat:
 
@@ -27,30 +29,32 @@ Meat:
 	- beef fillet
 
 Fish:
-	- 400g cooked atlantic shell-on prawn
 
+	- 400g cooked atlantic shell-on prawn
+	- 170g Tuna
 
 Vegetables:
 
 	- 1 garlic clove
-	- 2tsp shallots, minced
+	- 2 tsp shallots, minced
 	- 5 tomatoes
 	- 5 onions
 	- 4 little gem lettuce
+	- 200g Pesto
+	- 2 tsps Pickles
 
 Bread:
+
 	- 3 loaves of bread
 	- 150g pie crust
 
-
-
 Oil:
 
-	- 8 tbsp olive oil
+	- 9 tbsp olive oil
 
 Grains:
 
-	- 450g Plain Flour
+	- 675g Plain/All Purpose Flour
 
 Leavening agent:
 
@@ -58,8 +62,8 @@ Leavening agent:
 
 Seasoning:
 
-	- 5.5 tbsp salt
-	- 3.5 tbsp sugar
+	- 6 tbsp salt
+	- 275g white sugar
 	- 100g dark brown soft sugar
 	- 2.5 tbsp ground black pepper
 	- 0.25 tsp thyme
@@ -72,7 +76,7 @@ Seasoning:
 	- 5 tsp snipped chive
 	
 
-water:
+Water:
 
 	- 2 cups lukewarm water
 
@@ -87,15 +91,24 @@ Liquids:
 	- 5 tbsp tomato chutney
 	- 2 tbsp Worcestershire sauce
 	- 1 tbps tabasco sauce
+	- 700ml Vegetable Stock
 
+Condiment:
+
+	- 1 tsp Peppered Mustard
+	- 6 heaped tbsp mayonnaise
+	
 Additives:
 		
 	- 1 tsp cornstarch
+	- 1 tsp Baking Powder
+	- 1 tsp Baking Soda
 
 Biscuits: 
 	
 	- 250g digestive biscuits
 
-Choclate: 
+Chocolate: 
 	
-	- 5 tbsps lightly whipped grated choclate
+	- 5 tbsps lightly whipped grated chocolate
+	- 100g Cocoa Powder
