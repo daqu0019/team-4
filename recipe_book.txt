@@ -80,6 +80,7 @@ Tuna Dip
 
 
 Main Course:
+<<<<<<< HEAD
 >>>>>>> bb93a4ebcf44fd06dd888cb2bb42babf38a79ee7
 
 	Beef Fillet
@@ -179,6 +180,11 @@ Mix the lemon pudding, cream cheese and white sugar together and put on the pie 
 Put it in a fridge for 3 hours and serve.
 >>>>>>> fcc916311ecc06ff760727bde947ec090cae2962
 =======
+=======
+
+	Beef Fillet
+
+>>>>>>> Main_Course
 		Ingredients:
 			1 beef fillet
 			1 tbsp butter
@@ -326,4 +332,7 @@ Put it in a fridge for 3 hours and serve.
 			Step 6: Stir through the pesto and half the goat’s cheese. 
 			Step 7: Serve topped with the remaining cheese.
 	
+<<<<<<< HEAD
 >>>>>>> bb93a4ebcf44fd06dd888cb2bb42babf38a79ee7
+=======
+>>>>>>> Main_Course
