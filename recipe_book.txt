@@ -1,21 +1,28 @@
-Starters
+This is team 4 recipe book. Hereunder please find all the recipes as requested.
 
-Prawn Cocktail
+Starters:
 
-Ingredients:	 
+- Prawn Cocktail
+	Ingredients:	 
+	400g cooked Atlantic Shell-on Prawn
+	4 Little Gem Lettuce, washed and trimmed
+	5 Heaped tbsp mayonnaise
+	5 tbsp tomato chutney
+	2 tsp Worcestershire sauce
+	2 tsp creamed horseradish
+	Tiny splash Tabasco sauce
+	Squeeze lemon juice
+	Paprika, for dusting
+	4 tsp snipped chive
+	Bruschetta
 
-400g cooked Atlantic Shell-on Prawn
-4 Little Gem Lettuce, washed and trimmed
-5 Heaped tbsp mayonnaise
-5 tbsp tomato chutney
-2 tsp Worcestershire sauce
-2 tsp creamed horseradish
-Tiny splash Tabasco sauce
-Squeeze lemon juice
-Paprika, for dusting
-4 tsp snipped chive
-Bruschetta
+	Method:
 
+<<<<<<< HEAD
+- Mushroom Soup
+
+- Tuna Dip
+=======
 Method:
 
 Peel all but 4 of the prawns (reserve these for the tops).
@@ -44,4 +51,5 @@ Mushroom Soup
 
 Tuna Dip
 _________________________________________________________________________________________________________
+>>>>>>> ebb7d332ff212d2a994b5200192bb2bc34834416
 
