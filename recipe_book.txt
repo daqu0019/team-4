@@ -3,6 +3,7 @@ This is team 4 recipe book. Hereunder please find all the recipes as requested.
 Starters:
 
 - Prawn Cocktail
+
 	Ingredients:	 
 	400g cooked Atlantic Shell-on Prawn
 	4 Little Gem Lettuce, washed and trimmed
@@ -14,17 +15,7 @@ Starters:
 	Squeeze lemon juice
 	Paprika, for dusting
 	4 tsp snipped chive
-	Bruschetta
-
-	Method:
-
-<<<<<<< HEAD
-- Mushroom Soup
-
-- Tuna Dip
-=======
-Method:
-
+	
 Peel all but 4 of the prawns (reserve these for the tops).
 Break the lettuces into individual leaves, then divide the leaves evenly between 4 small glass bowls.
 Sprinkle the prawns over the lettuce and season with black pepper.
@@ -44,14 +35,15 @@ Ingredients:
 pinch of Italian seasoning
 3 loaves of bread
 
+Recipe:
+Cut tomatoes, onions and put in a bowl, add the olive oil and some Italian seasoning, mix well. Then, toast the bread, spread bruschetta on bread and serve.
 
 Mushroom Soup
 
 
 
 Tuna Dip
-_________________________________________________________________________________________________________
->>>>>>> ebb7d332ff212d2a994b5200192bb2bc34834416
+__________________________________________________________________________________________________________________
 
 Desserts
 
