@@ -14,17 +14,7 @@ Starters:
 	Squeeze lemon juice
 	Paprika, for dusting
 	4 tsp snipped chive
-	Bruschetta
-
-	Method:
-
-<<<<<<< HEAD
-- Mushroom Soup
-
-- Tuna Dip
-=======
-Method:
-
+	
 Peel all but 4 of the prawns (reserve these for the tops).
 Break the lettuces into individual leaves, then divide the leaves evenly between 4 small glass bowls.
 Sprinkle the prawns over the lettuce and season with black pepper.
@@ -50,6 +40,5 @@ Mushroom Soup
 
 
 Tuna Dip
-_________________________________________________________________________________________________________
->>>>>>> ebb7d332ff212d2a994b5200192bb2bc34834416
+__________________________________________________________________________________________________________________
 
