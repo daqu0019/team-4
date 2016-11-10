@@ -21,7 +21,7 @@ Starters:
 	Squeeze lemon juice
 	Paprika, for dusting
 	4 tsp snipped chive
-<<<<<<< HEAD
+
 	
 	Method:
 	Peel all but 4 of the prawns (reserve these for the tops).
@@ -51,7 +51,7 @@ Starters:
 	Ingredients:
 
 	Method:
-=======
+
 	Bruschetta
 
 	Method:
@@ -80,12 +80,9 @@ Tuna Dip
 
 
 Main Course:
-<<<<<<< HEAD
->>>>>>> bb93a4ebcf44fd06dd888cb2bb42babf38a79ee7
 
 	Beef Fillet
 
-<<<<<<< HEAD
 - Tuna Dip
 __________________________________________________________________________________________________________________
 
@@ -183,8 +180,7 @@ Put it in a fridge for 3 hours and serve.
 =======
 
 	Beef Fillet
-
->>>>>>> Main_Course
+	 Main_Course
 		Ingredients:
 			1 beef fillet
 			1 tbsp butter
