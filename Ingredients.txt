@@ -6,6 +6,7 @@ Fruit:
 	- 5 tomatoes
 	- 40 cherry tomatoes
 	- lumija mqaxxra
+	- 4 bananas
 
 Vegetables:
 
@@ -19,13 +20,8 @@ Pastry:
 	- 1150g puff pastry
 	- handful of breadcrumbs
 	- plain flour for dusting
-
-Grains:
-
-
-Leavening agent:
-
-	- 7g yeast
+	- 225g flour
+	- 150 g pie crust
 
 Seasoning:
 
@@ -33,44 +29,47 @@ Seasoning:
 	- ground black pepper
 	- fresh mint
 
-Water:
-
-	- 2 cups lukewarm water
-
-Funghi:
-	
-	- 534g mushroom flats
-
 
 Condiment:
 
 	- 11 tbsp olive oil
-	- 5g tbsp vegetable oil
+	- 80g tbsp vegetable oil
 	- 700g veg stock
 	- 1 dollop honey
 	- 1 tsp mayo
 	- 1 tsp mustard
 	- 1 tsp lemon juice
-	- 85g yogart 
-	- 2 tsp pickles 
+	- 85g yoghart 
+	- 2 pickles 
 	- 200g pesto
 	- 205g cheese
-	- 3 cup butter
+	- 203g butter
 	- 1 pint heavy cream
 	- 1 tsp garlic powder
 	- 1 cup grated cheese
-	- lemon zest	
-
-Additives:		
+	- lemon zest
+	- 50g ricotta
+	- 300ml carton whipping cream
+	- lightly whipped grated chocolate
+	- 260g white sugar
+	- 100g cacoa powder
+	- 1 tsp baking powder
+	- 1 tsp baking soda
+	- 150ml milk
+	- 150ml Boiling water
+	- 2 tsp Vanilla Extract
+	- 1/2 cup fresh lime juice
+	- 3/4 cup water
+	- 1 can coconut cream
+	- 150 g lemon pudding mix
+	- 100g cream cheese
 
 Biscuits: 
 	- 250g biscuits
 
-Chocolate: 
-
 Poultry:
 
-	- 1 egg
+	- 3 egg
 
 Fish:
 	- 170g tuna
