@@ -106,7 +106,6 @@ Starters:
 	tsp cornstarch
 	tsp parsley
 
-<<<<<<< HEAD
 - Beef Fillet
 	Ingredients:
 	1 beef fillet
@@ -121,7 +120,7 @@ Starters:
 	When the oil starts heating up, put the fillet on the pan, wait 3 minutes and drop the butter. 
 	Flip it on both sides and cook to preference. Before slicing, wait for 2 minutes.
 
-=======
+
 	Method:
 	Sprinkle the mushrooms with lemon juice.
 	In a food processor, coarsely chop them.
@@ -167,7 +166,6 @@ Starters:
 	85g Yoghurt
 	1 tsp  Lemon Juice
 	2 tsps Pickles.
->>>>>>> parent of 601c646... sub-team-2 first commit
 
 	Method:
 	Add the following ingredients tuna, mayonnaise, mustard, yoghurt and lemon juice, into a medium bowl. 
