@@ -12,6 +12,7 @@ Seasoning:
 	-black pepper
 	-1 tsp sugar
 	-2 bunches basil
+	-a pinch dried oregano
 
 Pasta: 
 	-1 lb fettuccine, prepared as directed
@@ -19,7 +20,7 @@ Pasta:
 	-Pasta dough
 
 Vegetables:
-	-4 garlic cloves, finely chopped
+	-5 garlic cloves, finely chopped
 	-1 carrot, diced
 	-1 onion, diced
 	-1 stick of celery, diced
@@ -30,15 +31,15 @@ Fruits:
 	-8 Kalamata olives, pitted, quartered
 
 Condiments:
-	-200ml olive oil
+	-225ml olive oil
 	-310ml water
-	-57g tomato sauce 
+	-227g tomato sauce 
 
 Poultry:
 	-2 large eggs
 
 Grain:
-	-650g of 00 flour
+	-700g of 00 flour
 
 Funghi: 
 	-80g mushroom flats, sliced 
@@ -49,8 +50,16 @@ Meat:
 Others:
 	-7g dried yeast
 	-1/2 recipe homemade pizza crust
+	-Pizza Dough for one 9-inch pizza
 
 
+
+
+
+
+
+	
+	
 
 
 
