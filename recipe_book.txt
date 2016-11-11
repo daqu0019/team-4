@@ -1,10 +1,10 @@
-
+	
 
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 This is team 4 recipe book Vegetarian Edition - hereunder please find all the recipes as requested.
-As starters one shall find the recipes for the: Bruschetta, Mushroom Soup
-As main courses one shall find the recipes for the: Vegetarian Risotto, Fettuccine al Fredo
-As desserts one shall find the recipes for the: Banoffee Pie, Chocolate Cake, Homemade Peach and Lime Sorbet, Lemon Cheesecake
+As starters one shall find the recipes for the: Bruschetta, Mushroom Soup, Tomato and Basil Tarte Tatin
+As main courses one shall find the recipes for the: Vegetarian Risotto, Fettuccine al Fredo, Courgette Carpaccio
+As desserts one shall find the recipes for the: Banoffe Pie, Chocolate Cake, Homemade Peach and Lime Sorbet, Lemon Cheesecake
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
 Starters:
@@ -46,8 +46,7 @@ Starters:
 	Add the cornstarch to the soup and continue to simmer 10 minutes longer, stirring constantly. Correct seasoning to taste.
 	Serve in warm bowls. Sprinkle with minced parsley.
 
-<<<<<<< HEAD
--Tomato and Basil Tarte Tatin
+- Tomato and Basil Tarte Tatin
 	Ingredients:
 	500g shop-bought puff pastry or 615g of homemade puff pastry
 	40 vine-ripened cherry tomatoes
@@ -65,11 +64,11 @@ Starters:
 	Preheat the oven to 200∞C, Gas Mark 6.
 	Place the tomatoes in a 20cm ovenproof frying pan with the vegetable oil, salt and pepper and honey or sugar. Arrange together as tightly as possible.
 	Sprinkle the tomatoes with the breadcrumbs ñ this will soak up some of the juice which comes out of the tomatoes during cooking.
-	On a well-floured work surface, roll out a circle of puff pastry the same size as the top of the frying pan. Place the puff pastry over the tomatoes, tucking it around them so the tomatoes are encased.
+	On a well-floured work surface, roll out a circle of puff pastry the same size as the top of the frying pan. Place the puff pastry over the tomatoes, tucking it around them 	so the tomatoes are encased.
 	Brush the pastry with the lightly beaten egg on the top only. This will add a bit of extra crunch to the pastry and it looks more presentable.
 	Bake in the oven for 20 minutes, or until the puff pastry is well puffed and golden brown.
 	Remove from the oven and leave to sit for a few minutes, then tip away the excess liquid (if any) and put a large plate upside down on top of the frying pan.
-	Using oven gloves, press the plate down hard and then quickly flip the whole thing so the frying pan is upside down and the plate is on the bottom. Do this over the sink because sometimes the tart will leak.
+	Using oven gloves, press the plate down hard and then quickly flip the whole thing so the frying pan is upside down and the plate is on the bottom. Do this over the sink 	because sometimes the tart will leak.
 	Remove the frying pan. Once the tart is cold, rip up some mint or basil leaves and drizzle with extra-virgin olive oil. Add salt and pepper if required.
 	Serve cold with cold meats, cheeses, olives or salads.
 
@@ -88,31 +87,11 @@ Starters:
 	Blend the mixture until smooth. 
 	Stir in the pickles.
 	Keep chilled until serving.
-=======
->>>>>>> 86f9c4d0516bddb6e0f14ad015f16813dbf623b3
-	
+
 ___________________________________________________________________________________________________________________________________________________
 
 
 Main Course:
-
-- Vegetarian Risotto
-	Ingredients: 
-	4 tsp Olive oil
-	200g Risotto Rice
-	700ml Vegetable Stock
-	200g Pesto
-	100g Soft Goat's Cheese
-
-	Method:
-	Pour the olive oil into a large saucepan. 
-	Tip in the rice and fry for 1 minute. 
-	Add half the stock and cook until absorbed. 
-	Add the remaining stock, a ladle at a time.
-	Cook until the rice is 'al dente', stirring continually, for 20-25 mins.
-	Stir through the pesto and half the goat’s cheese. 
-	Serve topped with the remaining cheese.
-
 
 - Fetuccine Al Fredo
 	Ingredients: 
@@ -133,93 +112,6 @@ Main Course:
 	Simmer for 15-20 minutes over low heat, stirring constantly.
 	Remove from heat and stir in parmesan.
 	Serve over hot Fettucine noodles.
-<<<<<<< HEAD
-
-- Pizza Norma
-	Ingredients:
-	Olive oil, for greasing 
-	Plain flour, for dusting 
-	Basic pizza dough:
-	450g (3 cups) plain flour 
-	2 teaspoons (7g/1 sachet) dried yeast 
-	1 1/2 teaspoons salt 
-	310mls (1 1/4 cups) lukewarm water 
-	1 tablespoon olive oil
-	Basic pizza sauce:
-	1 400g can Italian diced tomatoes 
-	1 tablespoon olive oil 
-	1 garlic clove, crushed 
-	1/2 teaspoon sugar 
-	Salt & ground black pepper, to taste 
-	Topping:
-	160g mozzarella, thinly sliced 
-	1 red capsicum, halved, deseeded, thinly sliced 
-	80g mushroom flats, sliced 
-	8 Kalamata olives, pitted, quartered 
-	120g thinly sliced pepperoni 
-
-	Method:
-	Brush two 27.5cm (base measurement) round pizza trays with the olive oil to lightly grease.
-	Sprinkle with a little flour.
-	The flour will help give the pizza a crisp, dry base.
-	Measure all your ingredients.
-	To make the pizza dough, place the plain flour, yeast and salt in a large bowl and mix well.
-	Make a well in the centre and add all the water and olive oil to the dry ingredients.
-	The water needs to be lukewarm to activate the yeast and encourage it to grow.
-	If the water is too hot, it can kill the yeast.
-	To test the water's temperature, sprinkle a little on the inside of your wrist - it shouldn't be too hot or too cold.
-	Use a wooden spoon to stir until combined and then use your hands to bring the dough together in the bowl.
-	It should be soft and slightly sticky.
-
-	Turn the dough onto a lightly floured surface and knead for 3 minutes, or until the dough is almost smooth.	
-	Use the heel of your hand to push the dough away from you and then lift it with your fingertips and fold it onto itself towards you.
-	Turn the dough 90 degrees and repeat.
-	For a pizza base, the dough doesn't need to have a strong framework.
-	Brush a large bowl with olive oil to grease.
-	Place the dough in the bowl and turn it over to lightly coat the surface with the olive oil. 
-	This will prevent the surface of the dough from drying out as it proves.
-	Cover the bowl with plastic wrap or a clean, damp tea towel, followed by a dry tea towel and place in a warm,
-	draught-free place to allow the dough to rise - a process called "proving".
-	A wooden board on the open door of an oven set to its lowest temperature, or with the pilot light on, is a good place,
-	or simply find a sunny, sheltered spot. If the temperature is too high, it can kill the yeast, making the dough useless.
-	The ideal temperature for proving dough is about 30∞C. Leave dough until it doubles in size - about 1 hour.	
-	The time it takes depends on the temperature where it's proving.
-
-	Meanwhile, make the basic pizza sauce: Place the undrained diced tomatoes, olive oil, garlic and sugar in a medium frying pan
-	and bring to the boil over high heat. Boil, uncovered, for 8-10 minutes or until the sauce is thick.
-	Season well with salt and pepper.
-	Transfer to a shallow bowl to cool.
-	This quantity makes enough sauce to cover 4 pizzas.
-	Store the leftover sauce in a jar in the fridge for up to 2 weeks.
-	Smooth the surface and pour over a thin layer of olive oil to prevent mould from forming.
-	Once the dough doubles, punch it down in the centre with your fist.
-	This step, known as "punching" or "knocking" down the dough, releases excess carbon dioxide produced by the yeast during rising.
-	Knead lightly in the bowl for 20-30 seconds or until the dough is smooth and has returned to its original size.
-	Do not overwork - the dough should be soft, supple and easy to roll out. This dough makes 2 pizzas with medium-thick crusts.
-	You can use the dough to make 4 thin-crusted pizzas - just remember to double the topping. It will serve 6.
-
-	Preheat oven to 230∞C. Place an oven shelf in the lowest position and another shelf 2 positions higher.
-	Divide the dough into 2 equal portions. 
-	Sit 1 portion on a lightly floured surface and cover with a clean, damp tea towel while working with the other portion. 
-	Roll the dough out on a lightly floured surface until almost large enough to line the prepared pizza tray. 
-	Lift onto the tray and use your hands to gently ease the dough out to the edge, allowing it to come a little up the side to form a thicker edge when baked.
-	Prick the dough with a fork, avoiding the edge.
-	This will help the dough rise evenly in the centre and form a thicker crusty edge to hold the topping.
-	Repeat with remaining portion of dough.
-
-	Use the back of a spoon to spread about 1/4 of the pizza sauce over 1 pizza base, avoiding the edge.
-	Top with 1/2 of the mozzarella, capsicum, mushrooms, olives and pepperoni.
-	Spread 1/3 of the remaining sauce over the other pizza base, then top with the remaining mozzarella, capsicum, mushrooms, olives and pepperoni.
-	Always place mozzarella under all the other topping ingredients so it remains soft and stringy.
-	If placed on the top, it tends to over brown and toughen.
-	Cover with clean, damp tea towels and leave in a warm place for 15-20 minutes or until the edges rise slightly.
-	Gently brush edges with a little water to help make them crisp.
-
-	Bake in preheated oven for 10 minutes.
-	Swap trays around in oven and bake for a further 5-10 minutes.
-	The pizzas are ready when they shrink from the sides of the trays and slide off easily.
-	Use a pizza cutter to cut into portions or slide onto a board using an egg slide and cut into portions.
-	Season with salt and pepper and serve immediately.
 
 - Vegetarian Risotto
 	Ingredients: 
@@ -255,13 +147,11 @@ Main Course:
 	Stack the mint leaves together, roll tightly, then finely shred. 
 	Scatter the mint, pine nuts and rocket over the courgettes, then drizzle everything generously with olive oil and more lemon juice. 
 	Scatter over the cheese, finish with the lemon zest and serve.
-=======
->>>>>>> 86f9c4d0516bddb6e0f14ad015f16813dbf623b3
 ___________________________________________________________________________________________________________________________________________________
 
 Desserts:
 
-- Bannoffe Pie
+- Banoffe Pie
 	Ingredients: 
 	For the base:
 	100g butter, melted
@@ -276,7 +166,7 @@ Desserts:
 	lightly whipped grated chocolate
 
 	Method:
-	Put the biscuit crumbs in your bowl, then tip in the melted butter and mix it all together. Spoon this into the base and press against the bottom and sides ñ this is the 	base of the banoffee pie recipe. Chill it for ten minutes.
+	Put the biscuit crumbs in your bowl, then tip in the melted butter and mix it all together. Spoon this into the base and press against the bottom and sides ñ this is the 	base of the banoffe pie recipe. Chill it for ten minutes.
 	Melt the butter and sugar into a non-stick saucepan over a low heat, stirring all the time until the sugar has dissolved. Add the condensed milk and bring to a rapid boil 	for about a minute, stirring all the time for a thick golden caramel. Spread the caramel over the base, cool and then chill for about 1 hour, until firm or until ready to 	serve.
 	Carefully lift the pie from the tin and place on a serving plate. Slice the bananas; fold half of them into the softly whipped cream and spoon over the base. Decorate 	with 	the remaining bananas and finish with the grated chocolate.
 
@@ -330,6 +220,6 @@ Desserts:
 ___________________________________________________________________________________________________________________________________________________
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
-We collectively have no doubt that you will like all the recipes. Thanks for Choosing Team 4’s Recipe Book!
+We collectively have no doubt that you will like all the recipes. Thanks for Choosing Team 4’s Recipe Book Vegetarian Edition!
 
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
