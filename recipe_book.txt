@@ -36,6 +36,22 @@ Starters:
 	tsp cornstarch
 	tsp parsley
 
+<<<<<<< HEAD
+- Beef Fillet
+	Ingredients:
+	1 beef fillet
+	1 tbsp butter
+	1 tbsp olive oil
+	salt
+	pepper
+
+
+	Method:
+	Season the fillet with salt and pepper to taste, add the olive oil on a pan and start heating it.
+	When the oil starts heating up, put the fillet on the pan, wait 3 minutes and drop the butter. 
+	Flip it on both sides and cook to preference. Before slicing, wait for 2 minutes.
+
+=======
 	Method:
 	Sprinkle the mushrooms with lemon juice.
 	In a food processor, coarsely chop them.
@@ -81,6 +97,7 @@ Starters:
 	85g Yoghurt
 	1 tsp  Lemon Juice
 	2 tsps Pickles.
+>>>>>>> parent of 601c646... sub-team-2 first commit
 
 	Method:
 	Add the following ingredients tuna, mayonnaise, mustard, yoghurt and lemon juice, into a medium bowl. 
@@ -91,6 +108,20 @@ Starters:
 
 	
 ___________________________________________________________________________________________________________________________________________________
+
+- Beef Fillet
+	Ingredients:
+	1 beef fillet
+	1 tbsp butter
+	1 tbsp olive oil
+	salt
+	pepper
+
+
+	Method:
+	Season the fillet with salt and pepper to taste, add the olive oil on a pan and start heating it.
+	When the oil starts heating up, put the fillet on the pan, wait 3 minutes and drop the butter. 
+	Flip it on both sides and cook to preference. Before slicing, wait for 2 minutes.
 
 
 Main Course:
