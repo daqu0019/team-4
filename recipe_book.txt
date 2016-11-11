@@ -106,30 +106,6 @@ Starters:
 	tsp cornstarch
 	tsp parsley
 
-- Beef Fillet
-	Ingredients:
-	1 beef fillet
-	1 tbsp butter
-	1 tbsp olive oil
-	salt
-	pepper
-
-
-	Method:
-	Season the fillet with salt and pepper to taste, add the olive oil on a pan and start heating it.
-	When the oil starts heating up, put the fillet on the pan, wait 3 minutes and drop the butter. 
-	Flip it on both sides and cook to preference. Before slicing, wait for 2 minutes.
-
-
-	Method:
-	Sprinkle the mushrooms with lemon juice.
-	In a food processor, coarsely chop them.
-	Melt the butter in a heavy saucepan and lightly saute the shallots.
-	Add the mushrooms, thyme, and bay leaf and saute over moderate heat for 10 minutes, or until the liquid disappears.
-	Add the salt, pepper, cream, and chicken stock and bring to a boil.
-	Reduce the heat and simmer for 20 minutes.
-	Add the cornstarch to the soup and continue to simmer 10 minutes longer, stirring constantly. Correct seasoning to taste.
-	Serve in warm bowls. Sprinkle with minced parsley.
 
 
 -Tomato and Basil Tarte Tatin
@@ -177,6 +153,11 @@ Starters:
 	
 ___________________________________________________________________________________________________________________________________________________
 
+
+
+
+Main Course:
+
 - Beef Fillet
 	Ingredients:
 	1 beef fillet
@@ -191,8 +172,6 @@ ________________________________________________________________________________
 	When the oil starts heating up, put the fillet on the pan, wait 3 minutes and drop the butter. 
 	Flip it on both sides and cook to preference. Before slicing, wait for 2 minutes.
 
-
-Main Course:
 
 - Vegetarian Risotto
 	Ingredients: 
