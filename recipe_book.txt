@@ -46,6 +46,7 @@ Starters:
 	Add the cornstarch to the soup and continue to simmer 10 minutes longer, stirring constantly. Correct seasoning to taste.
 	Serve in warm bowls. Sprinkle with minced parsley.
 
+<<<<<<< HEAD
 -Tomato and Basil Tarte Tatin
 	Ingredients:
 	500g shop-bought puff pastry or 615g of homemade puff pastry
@@ -87,7 +88,9 @@ Starters:
 	Blend the mixture until smooth. 
 	Stir in the pickles.
 	Keep chilled until serving.
-
+=======
+>>>>>>> 86f9c4d0516bddb6e0f14ad015f16813dbf623b3
+	
 ___________________________________________________________________________________________________________________________________________________
 
 
@@ -130,6 +133,7 @@ Main Course:
 	Simmer for 15-20 minutes over low heat, stirring constantly.
 	Remove from heat and stir in parmesan.
 	Serve over hot Fettucine noodles.
+<<<<<<< HEAD
 
 - Pizza Norma
 	Ingredients:
