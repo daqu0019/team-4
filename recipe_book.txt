@@ -10,7 +10,7 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 Starters:
 
-- Fetuccine Al Fredo
+- Fetuccine Al Fredo St.
 	Ingredients: 
 	1/2 cup butter
 	2 tablespoons cream cheese
@@ -19,7 +19,7 @@ Starters:
 	salt
 	black pepper
 	2/3 cup grated parmesan cheese (preferably fresh)
-	1 lb fettuccine, prepared as directed
+	0.5 lb fettuccine, prepared as directed
 
 	Method:
 	In a medium saucepan, melt butter.
