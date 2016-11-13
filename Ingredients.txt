@@ -36,6 +36,10 @@ Sauces:
 	- 1 tsp mustard
 	- 3/4 cup tomato sauce
 	
+Stock:
+	- 700ml Vegetable Stock
+	- 700g veg stock
+	- 1.5 cups chicken stock
 
 Vegetables:
 
@@ -83,9 +87,6 @@ Condiment:
 
 	- 24 tbsp olive oil	
 	- 500 ml vegetable oil
-	- 700ml Vegetable Stock
-	- 700g veg stock
-	- 1.5 cups chicken stock
 	- 1 dollop honey	
 	- 2 tbsp lemon juice
 	- 1/2 cup fresh lime juice
