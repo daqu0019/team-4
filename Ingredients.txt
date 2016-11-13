@@ -1,6 +1,6 @@
 Dairy:
 	- 205g cheese
-	- 223g butter
+	- 250g butter
 	- 2 pints heavy cream
 	- 50g ricotta
 	- 300ml carton whipping cream
@@ -8,6 +8,11 @@ Dairy:
 	- 100g cream cheese
 	- 2 cups grated parmesan cheese
 	- 100g Soft Goat's Cheese
+	- 387g mozzarella, thinly sliced
+
+Meat:
+	- 120g thinly sliced pepperoni
+	- 1 450 g beef fillet
 
 Rice & Pasta: 
 	- 200g risotto rice
@@ -15,38 +20,44 @@ Rice & Pasta:
 	- 240g paccheri	
 
 Fruit:
-	- 500g tomatoes
+	- 1024g tomatoes
 	- 40 cherry tomatoes
+	- 8 Kalamata olives
 	- 2 lumija mqaxxra
 	- 4 bananas
 	- 5 tbsp tomato chutney
+	- 1 red bel pepper, halved, deseeded, thinly sliced
 
 Vegetables:
 
 	- 5 onions
 	- 2 courgettes
 	- 2 pickles 
-	- 1 garlic
+	- 5 garlic cloves
 	- 1 carrot
 	- 1 onion
 	- 1 stick of celery
 	- 4 littlet gem lettuce
 	
 
-Pastry:
+Grains:
 
 	- 3 loaves of bread
+	- 1/2 recipe homemade pizza crust
 	- 150g pie crust
 	- 1150g puff pastry
 	- handful of breadcrumbs
 	- plain flour for dusting
-	- 425g flour
+	- 875g flour
 	- 150 g pie crust
 	- pasta dough
+	- 7g Dried yeast
+	- Pizza Dough for one 9-inch pizza
+	
 
 Seasoning:
 
-	- salt
+	- 2 tsp salt
 	- ground black pepper
 	- fresh mint
 	- 1 tsp garlic powder
@@ -55,12 +66,15 @@ Seasoning:
 	- tsp cornstarch
 	- tsp parsley
 	- paprika
+	- 1 handful fresh basil
+	- a pinch dried oregano, crumbled
 
 
 Condiment:
 
-	- 19 tbsp olive oil
-	- 80g tbsp vegetable oil
+	- 24 tbsp olive oil
+	- 3/4 cup tomato sauce
+	- 500 ml vegetable oil
 	- 700ml Vegetable Stock
 	- 700g veg stock
 	- 1.5 cups chicken stock
@@ -74,11 +88,11 @@ Condiment:
 	- 200g pesto		
 	- lightly whipped grated chocolate
 	- 100g cacoa powder
-	- white sugar
+	- 1 kg white sugar
 	- 1 tsp baking powder
 	- 1 tsp baking soda
 	- 150ml Boiling water
-	- 3/4 cup water
+	- 2 cups water
 	- 2 tsp Vanilla Extract	
 	- 1 can coconut cream
 	- 2 tsp worcestershire sauce
@@ -88,7 +102,7 @@ Biscuits:
 	- 250g biscuits
 
 Fungi: 
-	- 1 pound mushrooms
+	- 530g mushrooms
 
 Poultry:
 
