@@ -23,10 +23,16 @@ Fruit:
 	- 1024g tomatoes
 	- 40 cherry tomatoes
 	- 8 Kalamata olives
-	- 2 lumija mqaxxra
 	- 4 bananas
 	- 5 tbsp tomato chutney
 	- 1 red bel pepper, halved, deseeded, thinly sliced
+
+Lemon & Lime:
+	- 2 tbsp lemon juice
+	- 1/2 cup fresh lime juice
+	- handful of lemon zest
+	- 150 g lemon pudding mix
+	- 2 peeled lemons
 
 Sauces:
 	- 2 tsp worcestershire sauce
@@ -88,11 +94,7 @@ Seasoning:
 
 
 Condiment:	
-	- 1 dollop honey	
-	- 2 tbsp lemon juice
-	- 1/2 cup fresh lime juice
-	- lemon zest
-	- 150 g lemon pudding mix			
+	- 1 dollop honey				
 	- lightly whipped grated chocolate
 	- 100g cacoa powder
 	- 1 kg white sugar
