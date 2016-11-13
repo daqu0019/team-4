@@ -71,9 +71,7 @@ Grains:
 	- handful of breadcrumbs
 	- 1 kg flour
 	- pasta dough
-	- 7g Dried yeast
-	
-	
+	- 7g Dried yeast	
 
 Seasoning:
 
@@ -83,11 +81,11 @@ Seasoning:
 	- 1 tsp garlic powder
 	- 0.25 tsp thyme
 	- 0.5 tsp bay leaf
-	- tsp cornstarch
-	- tsp parsley
+	- 1 tsp cornstarch
+	- 1 tsp parsley
 	- paprika
 	- 1 handful fresh basil
-	- a pinch dried oregano, crumbled
+	- a pinch dried oregano
 
 Sweetners:
 	- 1 dollop honey				
