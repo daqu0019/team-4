@@ -7,11 +7,12 @@ Dairy:
 	- 150ml milk
 	- 100g cream cheese
 	- 2 cups grated parmesan cheese
+	- 100g Soft Goat's Cheese
 
 Rice & Pasta: 
 	- 200g risotto rice
 	- 1lb fettucine
-	- 240gpaccheri	
+	- 240g paccheri	
 
 Fruit:
 	- 500g tomatoes
@@ -58,8 +59,9 @@ Seasoning:
 
 Condiment:
 
-	- 15 tbsp olive oil
+	- 19 tbsp olive oil
 	- 80g tbsp vegetable oil
+	- 700ml Vegetable Stock
 	- 700g veg stock
 	- 1.5 cups chicken stock
 	- 1 dollop honey
