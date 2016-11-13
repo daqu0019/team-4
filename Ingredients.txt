@@ -99,17 +99,6 @@ Sweetners:
 	- 1 kg white sugar
 	- 1 can coconut cream
 	
-
-Condiment:	
-	
-	- 1 tsp baking powder
-	- 1 tsp baking soda
-	- 150ml Boiling water
-	- 2 cups water
-	- 2 tsp Vanilla Extract	
-	
-	
-
 Biscuits: 
 	- 250g biscuits
 
@@ -126,3 +115,10 @@ Fish:
 
 Nuts: 
 	- handful toasted nuts
+
+Others:
+	- 1 tsp baking powder
+	- 1 tsp baking soda
+	- 150ml Boiling water
+	- 2 cups water
+	- 2 tsp Vanilla Extract
