@@ -1,91 +1,12 @@
-	
-
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
-<<<<<<< HEAD
 This is team 4 recipe book Vegetarian Edition - hereunder please find all the recipes as requested.
 As starters one shall find the recipes for the: Bruschetta, Mushroom Soup, Tomato and Basil Tarte Tatin
 As main courses one shall find the recipes for the: Vegetarian Risotto, Fettuccine al Fredo, Courgette Carpaccio
 As desserts one shall find the recipes for the: Banoffe Pie, Chocolate Cake, Homemade Peach and Lime Sorbet, Lemon Cheesecake
-=======
-This is team 4 recipe book - hereunder please find all the recipes as requested.
-As starters one shall find the recipes for the: Fettuccine al Fredo, Paccheri with tomato sauce and Parmesan, Homemade Tagliatelle
-As main courses one shall find the recipes for the: Pizza Norma, Pizza Margherita, Pizza Marinara
-As desserts one shall find the recipes for the: Banoffee Pie, Chocolate Cake, Homemade Peach and Lime Sorbet, Lemon Cheesecake
->>>>>>> 42b31f6b9e0d43dd586e016877adb500ef0169af
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
+
 Starters:
-
-- Fetuccine Al Fredo
-	Ingredients: 
-	1/2 cup butter
-	2 tablespoons cream cheese
-	1 pint heavy cream
-	1 teaspoon garlic powder
-	salt
-	black pepper
-	2/3 cup grated parmesan cheese (preferably fresh)
-	1 lb fettuccine, prepared as directed
-
-	Method:
-	In a medium saucepan, melt butter.
-	When butter is melted, add cream cheese.
-	When the cream cheese is softened, add heavy cream.
-	Season with garlic powder, salt, and pepper.
-	Simmer for 15-20 minutes over low heat, stirring constantly.
-	Remove from heat and stir in parmesan.
-	Serve over hot Fettucine noodles.
-
-- Paccheri with tomato sauce and Parmesan
-	Ingredients:
-	240g of paccheri
-	1 garlic, finely chopped
-	1 carrot, diced
-	1 onion, diced
-	1 stick of celery, diced
-	200g of San Marzano tomatoes, diced
-	1/2 tsp sugar
-	50g of Piccadilly tomatoes, or other baby plum tomatoes
-	20g of butter
-	40g of Parmesan, grated, plus extra to garnish
-	1 bunch of basil
-	125ml of extra virgin olive oil, plus extra for drizzling
-	salt
-	pepper
-
-	Method:
-	Add the olive oil to large pan and gently sauté the garlic, carrot, onion and celery together until softened. Add the diced tomatoes, some seasoning and the sugar and continue to cook for 35–40 minutes
-	Once cooked, transfer to a blender and blitz until smooth. Pass through a fine sieve into a clean pan to remove any seeds		
-	Add the Piccadilly tomatoes, stirring into the sauce to heat through
-	Cook the pasta in boiling water for 10–12 minutes, or until cooked through, then drain and stir into the tomato sauce 
-	Add the butter and grated Parmesan, stirring until the sauce becomes almost creamy. Pick the basil leaves and stir most through the pasta
-	Garnish with a few remaining whole leaves, a little more grated Parmesan and a drizzle of olive oil
-
-- Homemade Tagliatelle
-	Ingredients:
-	Pasta dough
-	2 large eggs
-	200g of 00 flour, plus extra for dusting
-	
-	Method:
-	Place 180g of the 00 flour onto a large wooden board. Pour the remaining 20g of flour into a small bowl, ready to use if necessary.
-	Shape the flour into a volcano with a large hole in the centre, then crack the eggs and pour them into the middle.
-	Using a fork, lightly beat the eggs, then mix in the flour a little at time.
-	It is essential that the flour is gradually beaten into the eggs to ensure the walls of the volcano don't break too soon.
-	Add the reserved 20g of flour if the dough is too moist.
-	Bring the mixture together with a spatula and your hands until you obtain a consistent ball of dough
-	Work the dough with the heel of your hand for 10–15 minutes, or until the mixture is smooth and very elastic.
-	Wrap the dough in cling film and refrigerate for at least 30 minutes.
-	Dust a wooden board with 1 tbsp of flour. Unwrap the dough and flatten it with a rolling pin.
-	Roll out the dough into thin pasta sheets, less than 1mm thick.
-	If you have a pasta machine, divide the dough into 4 before rolling it out
-	To cut the pasta sheets into tagliatelle, roll the sheets up and cut into large ¾cm strips.
-	Unravel the cut tagliatelle strips and twirl into little nests. Dust the nests liberally with flour to stop them from sticking.
-	Cook the tagliatelle within a few hours in boiling salted water for 3–5 minutes before serving with your favourite sauce.
-	Alternatively, freeze for up to 1 month.
-	To freeze the pasta, layer the tagliatelle flat on a tray lined with parchment paper and freeze for 1 hour,
-	then transfer to a freezer bag or another suitable container.
-
 - Bruschetta
 	Ingredients:
 	5 tomatoes
@@ -113,7 +34,6 @@ Starters:
 	tsp cornstarch
 	tsp parsley
 
-<<<<<<< HEAD
 	Method:
 	Sprinkle the mushrooms with lemon juice.
 	In a food processor, coarsely chop them.
@@ -125,11 +45,6 @@ Starters:
 	Serve in warm bowls. Sprinkle with minced parsley.
 
 - Tomato and Basil Tarte Tatin
-=======
-
-
--Tomato and Basil Tarte Tatin
->>>>>>> 42b31f6b9e0d43dd586e016877adb500ef0169af
 	Ingredients:
 	500g shop-bought puff pastry or 615g of homemade puff pastry
 	40 vine-ripened cherry tomatoes
@@ -154,50 +69,9 @@ Starters:
 	Using oven gloves, press the plate down hard and then quickly flip the whole thing so the frying pan is upside down and the plate is on the bottom. Do this over the sink 	because sometimes the tart will leak.
 	Remove the frying pan. Once the tart is cold, rip up some mint or basil leaves and drizzle with extra-virgin olive oil. Add salt and pepper if required.
 	Serve cold with cold meats, cheeses, olives or salads.
-
-- Tuna Dip
-	Ingredients: 
-	170g Tuna
-	1 tsp Mayonaisse
-	1 tsp Peppered Mustard
-	85g Yoghurt
-	1 tsp  Lemon Juice
-	2 Pickles.
-
-	Method:
-	Add the following ingredients tuna, mayonnaise, mustard, yoghurt and lemon juice, into a medium bowl. 
-	Mix the bowl.
-	Blend the mixture until smooth. 
-	Stir in the pickles.
-	Keep chilled until serving.
-
-<<<<<<< HEAD
-=======
-	
->>>>>>> 42b31f6b9e0d43dd586e016877adb500ef0169af
 ___________________________________________________________________________________________________________________________________________________
 
-
-
-
 Main Course:
-
-<<<<<<< HEAD
-=======
-- Beef Fillet
-	Ingredients:
-	1 beef fillet
-	1 tbsp butter
-	1 tbsp olive oil
-	salt
-	pepper
-
-
-	Method:
-	Season the fillet with salt and pepper to taste, add the olive oil on a pan and start heating it.
-	When the oil starts heating up, put the fillet on the pan, wait 3 minutes and drop the butter. 
-	Flip it on both sides and cook to preference. Before slicing, wait for 2 minutes.
-
 
 - Vegetarian Risotto
 	Ingredients: 
@@ -216,8 +90,6 @@ Main Course:
 	Stir through the pesto and half the goatÕs cheese. 
 	Serve topped with the remaining cheese.
 
-
->>>>>>> 42b31f6b9e0d43dd586e016877adb500ef0169af
 - Fetuccine Al Fredo
 	Ingredients: 
 	1/2 cup butter
@@ -237,113 +109,6 @@ Main Course:
 	Simmer for 15-20 minutes over low heat, stirring constantly.
 	Remove from heat and stir in parmesan.
 	Serve over hot Fettucine noodles.
-<<<<<<< HEAD
-=======
-
-
-- Pizza Norma
-	Ingredients:
-	Olive oil, for greasing 
-	Plain flour, for dusting 
-	Basic pizza dough:	
-	450g (3 cups) plain flour 
-	2 teaspoons (7g/1 sachet) dried yeast 
-	1 1/2 teaspoons salt 
-	310mls (1 1/4 cups) lukewarm water 
-	1 tablespoon olive oil
-	Basic pizza sauce:
-	1 400g can Italian diced tomatoes 
-	1 tablespoon olive oil 
-	1 garlic clove, crushed 
-	1/2 teaspoon sugar 
-	Salt & ground black pepper, to taste 
-	Topping:
-	160g mozzarella, thinly sliced 
-	1 red capsicum, halved, deseeded, thinly sliced 
-	80g mushroom flats, sliced 
-	8 Kalamata olives, pitted, quartered 
-	120g thinly sliced pepperoni 
-
-	Method:
-	Brush two 27.5cm (base measurement) round pizza trays with the olive oil to lightly grease.
-	Sprinkle with a little flour.
-	The flour will help give the pizza a crisp, dry base.
-	Measure all your ingredients.
-	To make the pizza dough, place the plain flour, yeast and salt in a large bowl and mix well.
-	Make a well in the centre and add all the water and olive oil to the dry ingredients.
-	The water needs to be lukewarm to activate the yeast and encourage it to grow.
-	If the water is too hot, it can kill the yeast.
-	To test the water's temperature, sprinkle a little on the inside of your wrist - it shouldn't be too hot or too cold.
-	Use a wooden spoon to stir until combined and then use your hands to bring the dough together in the bowl.
-	It should be soft and slightly sticky.
-
-	Turn the dough onto a lightly floured surface and knead for 3 minutes, or until the dough is almost smooth.	
-	Use the heel of your hand to push the dough away from you and then lift it with your fingertips and fold it onto itself towards you.
-	Turn the dough 90 degrees and repeat.
-	For a pizza base, the dough doesn't need to have a strong framework.
-	Brush a large bowl with olive oil to grease.
-	Place the dough in the bowl and turn it over to lightly coat the surface with the olive oil. 
-	This will prevent the surface of the dough from drying out as it proves.
-	Cover the bowl with plastic wrap or a clean, damp tea towel, followed by a dry tea towel and place in a warm,
-	draught-free place to allow the dough to rise - a process called "proving".
-	A wooden board on the open door of an oven set to its lowest temperature, or with the pilot light on, is a good place,
-	or simply find a sunny, sheltered spot. If the temperature is too high, it can kill the yeast, making the dough useless.
-	The ideal temperature for proving dough is about 30°C. Leave dough until it doubles in size - about 1 hour.	
-	The time it takes depends on the temperature where it's proving.
-
-	Meanwhile, make the basic pizza sauce: Place the undrained diced tomatoes, olive oil, garlic and sugar in a medium frying pan
-	and bring to the boil over high heat. Boil, uncovered, for 8-10 minutes or until the sauce is thick.
-	Season well with salt and pepper.
-	Transfer to a shallow bowl to cool.
-	This quantity makes enough sauce to cover 4 pizzas.
-	Store the leftover sauce in a jar in the fridge for up to 2 weeks.
-	Smooth the surface and pour over a thin layer of olive oil to prevent mould from forming.
-	Once the dough doubles, punch it down in the centre with your fist.
-	This step, known as "punching" or "knocking" down the dough, releases excess carbon dioxide produced by the yeast during rising.
-	Knead lightly in the bowl for 20-30 seconds or until the dough is smooth and has returned to its original size.
-	Do not overwork - the dough should be soft, supple and easy to roll out. This dough makes 2 pizzas with medium-thick crusts.
-	You can use the dough to make 4 thin-crusted pizzas - just remember to double the topping. It will serve 6.
-
-	Preheat oven to 230°C. Place an oven shelf in the lowest position and another shelf 2 positions higher.
-	Divide the dough into 2 equal portions. 
-	Sit 1 portion on a lightly floured surface and cover with a clean, damp tea towel while working with the other portion. 
-	Roll the dough out on a lightly floured surface until almost large enough to line the prepared pizza tray. 
-	Lift onto the tray and use your hands to gently ease the dough out to the edge, allowing it to come a little up the side to form a thicker edge when baked.
-	Prick the dough with a fork, avoiding the edge.
-	This will help the dough rise evenly in the centre and form a thicker crusty edge to hold the topping.
-	Repeat with remaining portion of dough.
-
-	Use the back of a spoon to spread about 1/4 of the pizza sauce over 1 pizza base, avoiding the edge.
-	Top with 1/2 of the mozzarella, capsicum, mushrooms, olives and pepperoni.
-	Spread 1/3 of the remaining sauce over the other pizza base, then top with the remaining mozzarella, capsicum, mushrooms, olives and pepperoni.
-	Always place mozzarella under all the other topping ingredients so it remains soft and stringy.
-	If placed on the top, it tends to over brown and toughen.
-	Cover with clean, damp tea towels and leave in a warm place for 15-20 minutes or until the edges rise slightly.
-	Gently brush edges with a little water to help make them crisp.
-
-	Bake in preheated oven for 10 minutes.
-	Swap trays around in oven and bake for a further 5-10 minutes.
-	The pizzas are ready when they shrink from the sides of the trays and slide off easily.
-	Use a pizza cutter to cut into portions or slide onto a board using an egg slide and cut into portions.
-	Season with salt and pepper and serve immediately.
->>>>>>> 42b31f6b9e0d43dd586e016877adb500ef0169af
-
-- Vegetarian Risotto
-	Ingredients: 
-	4 tsp Olive oil
-	200g Risotto Rice
-	700ml Vegetable Stock
-	200g Pesto
-	100g Soft Goat's Cheese
-
-	Method:
-	Pour the olive oil into a large saucepan. 
-	Tip in the rice and fry for 1 minute. 
-	Add half the stock and cook until absorbed. 
-	Add the remaining stock, a ladle at a time.
-	Cook until the rice is 'al dente', stirring continually, for 20-25 mins.
-	Stir through the pesto and half the goatï¿½s cheese. 
-	Serve topped with the remaining cheese.
 
 - Courgette Carpaccio
 	Ingredients:
@@ -362,59 +127,11 @@ Main Course:
 	Stack the mint leaves together, roll tightly, then finely shred. 
 	Scatter the mint, pine nuts and rocket over the courgettes, then drizzle everything generously with olive oil and more lemon juice. 
 	Scatter over the cheese, finish with the lemon zest and serve.
-<<<<<<< HEAD
-=======
-
-- Margherita
-	Ingredients:
-	1/2 recipe homemade pizza crust
-	1 Tablespoon olive oil
-	2 cloves roasted garlic, finely chopped
-	1/4 cup your favorite pizza or tomato sauce
-	8 ounces mozzarella cheese, sliced into 1/2 inch thick pieces
-	2 plum tomatoes, sliced (or any tomato you like)	
-	handful of fresh basil
-	fresh ground pepper, to taste
-
-	Methods:
-	Prepare the pizza dough, including preheating the oven to 475F.
-	Mix the olive oil and chopped garlic together in a small dish. After waiting 15 minutes, spread olive oil/garlic mixture on top of crust.
-	Top with pizza sauce, then the mozzarella cheese slices, then the tomato slices.
-	Bake for 14-16 minutes or until the crust is lightly browned and the cheese is bubbling.
-	For the last minute, I move the oven rack to the top rack to really brown the edges. That's optional.
-	Remove from the oven and top with fresh basil and pepper. Slice pizza and serve immediately.
-	Store leftover pizza covered tightly in the refrigerator and reheat as you prefer. Baked pizza slices may be frozen up to 1 month.
-
-- Pizza Marinara
-	Ingredients: 
-	1 garlic clove
-	all-purpose flour for dusting
-	Pizza Dough for one 9-inch pizza
-	1/2 cup Pizza Sauce
-	a pinch dried oregano, crumbled
-	1 tablespoon extra-virgin olive oil
-
-	Methods:
-	At least 45 minutes before baking pizza, put a pizza stone or 4 to 6 unglazed "quarry" tiles arranged close together on oven rack in lowest position in oven and preheat oven to highest setting (500°F-550°F).
-	Thinly slice garlic. 
-	On a lightly floured surface pat out dough evenly with your fingers, keeping hands flat and lifting and turning dough over several times, into a 9-inch round. 
-	(Do not handle dough more than necessary. If dough is sticky, dust it lightly with flour.)
-	Dust a baker's peel or rimless baking sheet with flour and carefully transfer dough to it. 
-	Jerk peel or baking sheet once or twice and, if dough is sticking, lift dough and sprinkle flour underneath it, reshaping dough if necessary. 
-	Working quickly, top dough with sauce, spreading with back of a spoon to within 1/2 inch of edge. 
-	Scatter garlic and oregano over sauce and drizzle with oil.
-	Line up far edge of peel or baking sheet with far edge of stone or tiles and tilt peel or baking sheet, jerking it gently to start pizza moving. 
-	Once edge of pizza touches stone or tiles, carefully pull back peel or baking sheet, completely transferring pizza to stone or tiles (do not move pizza). 
-	Bake pizza 6 to 7 minutes, or until dough is crisp and browned, and transfer with a metal spatula to a cutting board.
-	Cut pizza into wedges and serve immediately.
-
-
->>>>>>> 42b31f6b9e0d43dd586e016877adb500ef0169af
 ___________________________________________________________________________________________________________________________________________________
 
 Desserts:
 
-- Banoffe Pie
+- Bannoffe Pie
 	Ingredients: 
 	For the base:
 	100g butter, melted
@@ -429,7 +146,7 @@ Desserts:
 	lightly whipped grated chocolate
 
 	Method:
-	Put the biscuit crumbs in your bowl, then tip in the melted butter and mix it all together. Spoon this into the base and press against the bottom and sides – this is the 	base of the banoffe pie recipe. Chill it for ten minutes.
+	Put the biscuit crumbs in your bowl, then tip in the melted butter and mix it all together. Spoon this into the base and press against the bottom and sides – this is the 	base of the banoffee pie recipe. Chill it for ten minutes.
 	Melt the butter and sugar into a non-stick saucepan over a low heat, stirring all the time until the sugar has dissolved. Add the condensed milk and bring to a rapid boil 	for about a minute, stirring all the time for a thick golden caramel. Spread the caramel over the base, cool and then chill for about 1 hour, until firm or until ready to 	serve.
 	Carefully lift the pie from the tin and place on a serving plate. Slice the bananas; fold half of them into the softly whipped cream and spoon over the base. Decorate 	with 	the remaining bananas and finish with the grated chocolate.
 
@@ -479,7 +196,6 @@ Desserts:
 	Put pie crust on the bottom of the dish
 	Mix the lemon pudding, cream cheese and white sugar together and put on the pie crust.
 	Put it in a fridge for 3 hours and serve.
-
 ___________________________________________________________________________________________________________________________________________________
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
