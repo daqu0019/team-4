@@ -1,14 +1,13 @@
 Dairy:
-	- 205g cheese
 	- 250g butter
 	- 2 pints heavy cream
-	- 50g ricotta
+	- 100g cheese cream
 	- 300ml carton whipping cream
+	- 50g ricotta
 	- 150ml milk
-	- 100g cream cheese
-	- 2 cups grated parmesan cheese
+	- 4 cups grated parmesan cheese
 	- 100g Soft Goat's Cheese
-	- 387g mozzarella, thinly sliced
+	- 387g mozzarella
 
 Meat:
 	- 120g thinly sliced pepperoni
