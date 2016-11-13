@@ -23,8 +23,6 @@ Fruit:
 	- 40 cherry tomatoes
 	- 8 Kalamata olives
 	- 4 bananas
-	- 5 tbsp tomato chutney
-	- 1 red bel pepper, halved, deseeded, thinly sliced
 
 Lemon & Lime:
 	- 2 tbsp lemon juice
@@ -40,7 +38,8 @@ Sauces:
 	- 6 tbsp mayo
 	- 1 tsp mustard
 	- 3/4 cup tomato sauce
-	
+	- 5 tbsp tomato chutney
+
 Stock:
 	- 700ml Vegetable Stock
 	- 700g veg stock
@@ -60,6 +59,7 @@ Vegetables:
 	- 1 onion
 	- 1 stick of celery
 	- 4 littlet gem lettuce
+	- 1 red bel pepper
 	
 
 Grains:
