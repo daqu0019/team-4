@@ -41,6 +41,10 @@ Stock:
 	- 700g veg stock
 	- 1.5 cups chicken stock
 
+Oils:
+	- 24 tbsp olive oil	
+	- 500 ml vegetable oil	
+
 Vegetables:
 
 	- 5 onions
@@ -83,10 +87,7 @@ Seasoning:
 	- a pinch dried oregano, crumbled
 
 
-Condiment:
-
-	- 24 tbsp olive oil	
-	- 500 ml vegetable oil
+Condiment:	
 	- 1 dollop honey	
 	- 2 tbsp lemon juice
 	- 1/2 cup fresh lime juice
