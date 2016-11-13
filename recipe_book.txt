@@ -81,7 +81,6 @@ Starters:
 	To freeze the pasta, layer the tagliatelle flat on a tray lined with parchment paper and freeze for 1 hour,
 	then transfer to a freezer bag or another suitable container.
 
-
 - Courgette Carpaccio
 	Ingredients:
 	1-2 courgettes(a mix of yellow and green ideally)
@@ -124,8 +123,8 @@ Starters:
 	0.5 tsp ground pepper
 	2 cups heavy cream
 	1.5 cups chicken stock
-	tsp cornstarch
-	tsp parsley
+	1 tsp cornstarch
+	1 tsp parsley
 
 	Method:
 	Sprinkle the mushrooms with lemon juice.
@@ -223,7 +222,6 @@ Main Course:
 	Stir through the pesto and half the goat’s cheese. 
 	Serve topped with the remaining cheese.
 
-
 - Pizza Norma
 	Ingredients:
 	Olive oil, for greasing 
@@ -310,7 +308,6 @@ Main Course:
 	Use a pizza cutter to cut into portions or slide onto a board using an egg slide and cut into portions.
 	Season with salt and pepper and serve immediately.
 
-
 - Margherita
 	Ingredients:
 	1/2 recipe homemade pizza crust
@@ -367,6 +364,7 @@ Main Course:
 	Season the fillet with salt and pepper to taste, add the olive oil on a pan and start heating it.
 	When the oil starts heating up, put the fillet on the pan, wait 3 minutes and drop the butter. 
 	Flip it on both sides and cook to preference. Before slicing, wait for 2 minutes.
+
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Desserts:
