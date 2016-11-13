@@ -50,7 +50,6 @@ Oils:
 	- 500 ml vegetable oil	
 
 Vegetables:
-
 	- 5 onions
 	- 2 courgettes
 	- 2 pickles 
@@ -61,9 +60,7 @@ Vegetables:
 	- 4 littlet gem lettuce
 	- 1 red bel pepper
 	
-
 Grains:
-
 	- 3 loaves of bread
 	- 2 Pizza Dough for one 9-inch pizza
 	- 150g pie crust
@@ -74,7 +71,6 @@ Grains:
 	- 7g Dried yeast	
 
 Seasoning:
-
 	- 2 tsp salt
 	- ground black pepper
 	- fresh mint
@@ -101,7 +97,6 @@ Fungi:
 	- 530g mushrooms
 
 Poultry:
-
 	- 5 eggs
 
 Fish:
