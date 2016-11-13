@@ -28,6 +28,15 @@ Fruit:
 	- 5 tbsp tomato chutney
 	- 1 red bel pepper, halved, deseeded, thinly sliced
 
+Sauces:
+	- 2 tsp worcestershire sauce
+	- tiny splash tabasco sauce
+	- 200g pesto
+	- 6 tbsp mayo
+	- 1 tsp mustard
+	- 3/4 cup tomato sauce
+	
+
 Vegetables:
 
 	- 5 onions
@@ -72,20 +81,16 @@ Seasoning:
 
 Condiment:
 
-	- 24 tbsp olive oil
-	- 3/4 cup tomato sauce
+	- 24 tbsp olive oil	
 	- 500 ml vegetable oil
 	- 700ml Vegetable Stock
 	- 700g veg stock
 	- 1.5 cups chicken stock
-	- 1 dollop honey
-	- 6 tbsp mayo
-	- 1 tsp mustard
+	- 1 dollop honey	
 	- 2 tbsp lemon juice
 	- 1/2 cup fresh lime juice
 	- lemon zest
-	- 150 g lemon pudding mix
-	- 200g pesto		
+	- 150 g lemon pudding mix			
 	- lightly whipped grated chocolate
 	- 100g cacoa powder
 	- 1 kg white sugar
@@ -95,8 +100,7 @@ Condiment:
 	- 2 cups water
 	- 2 tsp Vanilla Extract	
 	- 1 can coconut cream
-	- 2 tsp worcestershire sauce
-	- tiny splash tabasco sauce
+	
 
 Biscuits: 
 	- 250g biscuits
